@@ -1,3 +1,3 @@
 # TestHttpServer
-test mock http server
-directly download outout files，and run it
+test mock http server<br/>
+directly download output folder，and run(./ServerLinux,./ServerMac,ServerWindows.exe)
